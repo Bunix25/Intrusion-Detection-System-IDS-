@@ -1,1 +1,6 @@
+# Ignore log files
 ids.log
+
+# Other files and directories to ignore
+*.pyc
+__pycache__/
